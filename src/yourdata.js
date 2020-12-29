@@ -8,6 +8,7 @@ import codeIcon from "./images/code.svg"
 // Social Icon
 import githubIcon from "./images/github.svg"
 import instagramIcon from "./images/instagram.svg"
+import codepenIcon from "./images/codepen.svg"
 
 export default {
   //(Please Do Not Remove The comma(,) after every variable)
